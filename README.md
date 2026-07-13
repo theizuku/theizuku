@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Zzz](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=IzukufontAlignY=20&fontSize=90&desc=Manga%20Manhwa%20𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍%20|%20Copy%20Paste%20𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋%20)](https://github.com/theizuku/theizuku)
+[![Zzz](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Izuku&desc=Manga%20Manhwa%20𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍%20|%20Copy%20Paste%20𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋%20)](https://github.com/theizuku/theizuku)
 
 # ɪᴢᴜᴋᴜ  
 <p align="center">
