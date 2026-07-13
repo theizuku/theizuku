@@ -1,16 +1,21 @@
-## Hi there 👋
+# ɪᴢᴜᴋᴜ  
+<p align="center">
+    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Theizuku/count.svg" />
+</p>
 
-<!--
-**theizuku/theizuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>ʜɪ ! ɪᴛ's ᴍᴇ 'ɪᴢᴜᴋᴜ' (ʀɪᴛɪᴋ) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://t.me/ChadBeing"><img src="https://telegra.ph/file/143a59f0d29b568d1e612-34e5c76368e30e496e.jpg"></a>
+    </p>
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<h3>
+    
+<h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
+  
+
+[<img src="https://github-readme-stats.vercel.app/api?username=theizuku&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Theizuku) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheIzuku&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/TheIzuku)
